@@ -1,0 +1,14 @@
+{
+  "name": "wpt-errors",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.2",
+  }
+}

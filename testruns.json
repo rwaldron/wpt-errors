@@ -1,0 +1,8 @@
+{
+  "by_platform": {
+    "chrome-63.0-linux": ["6ed1ba18d0"],
+    "edge-15-windows-10-sauce": ["5d55258739"],
+    "firefox-57.0-linux": ["1dfa574650"],
+    "safari-11.0-macos-10.12-sauce": ["fc2e57a502"]
+  }
+}
